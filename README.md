@@ -178,24 +178,20 @@ Todos los efectos pueden personalizarse desde el panel de configuración.
 
 | 🌈 Cascada con arcoíris | 💧 Cascada | 🌌 Estrellas con auroras |
 |---|---|---|
-| ![Cascada con arcoiris](images/Cascada%20con%20arcoiris.jpg) | ![Cascada](images/Cascada.jpg) | ![Estrellas con Auroras Boreales](images/Estrellas%20con%20Auroras%20Boreales.jpg) |
+| ![Cascada con arcoiris](Imagenes/Cascada%20con%20arcoiris.jpg) | ![Cascada](Imagenes/Cascada.jpg) | ![Estrellas con Auroras Boreales](Imagenes/Estrellas%20con%20Auroras%20Boreales.jpg) |
 
 | ⭐ Estrellas | 🪟 Lluvia en ventana (1) | ⛈️ Lluvia en ventana (2) |
 |---|---|---|
-| ![Estrellas](images/Estrellas.jpg) | ![Lluvia en ventana 1](images/Lluvia%20en%20ventana%20%281%29.jpg) | ![Lluvia en ventana 2](images/Lluvia%20en%20ventana%20%282%29.jpg) |
+| ![Estrellas](Imagenes/Estrellas.jpg) | ![Lluvia en ventana 1](Imagenes/Lluvia%20en%20ventana%20%281%29.jpg) | ![Lluvia en ventana 2](Imagenes/Lluvia%20en%20ventana%20%282%29.jpg) |
 
 | ✨ Luciérnagas | 🟦 Matrix azul | 🟪 Matrix mixto |
 |---|---|---|
-| ![Luciernagas](images/Luciernagas.jpg) | ![Matrix azul](images/Matrix%20azul.jpg) | ![Matrix mixto](images/Matrix%20mixto.jpg) |
+| ![Luciernagas](Imagenes/Luciernagas.png) | ![Matrix azul](Imagenes/Matrix%20azul.jpg) | ![Matrix mixto](Imagenes/Matrix%20mixto.jpg) |
 
 | 🟣 Matrix morado | 🟩 Matrix | 🌌 Nebulosa |
 |---|---|---|
-| ![Matrix morado](images/Matrix%20morado.jpg) | ![Matrix](images/Matrix.jpg) | ![Nebulosa](images/Nebulosa.jpg) |
+| ![Matrix morado](Imagenes/Matrix%20morado.jpg) | ![Matrix](Imagenes/Matrix.jpg) | ![Nebulosa](Imagenes/Nebulosa.jpg) |
 
 | ❄️ Nieve | 🌈 Nubes con arcoíris | ☁️ Nubes |
 |---|---|---|
-| ![Nieve](images/Nieve.jpg) | ![Nubes con Arcoiris](images/Nubes%20con%20Arcoiris.jpg) | ![Nubes](images/Nubes.jpg) |
-
-### ⚙️ Configuración
-
-Cada efecto dispone de diferentes parámetros que permiten modificar su apariencia, comportamiento y rendimiento.
+| ![Nieve](Imagenes/Nieve.jpg) | ![Nubes con Arcoiris](Imagenes/Nubes%20con%20Arcoiris.jpg) | ![Nubes](Imagenes/Nubes.jpg) |
