@@ -176,17 +176,25 @@ Un proyecto experimental de efectos visuales interactivos para transformar el es
 
 Todos los efectos pueden personalizarse desde el panel de configuración.
 
-| 🌈 Cascada | ⭐ Estrellas | 🪟 Lluvia en ventana |
+| 🌈 Cascada con arcoíris | 💧 Cascada | 🌌 Estrellas con auroras |
 |---|---|---|
-| ![Cascada con arcoíris](images/Cascada%20con%20arcoiris.jpg) | ![Estrellas](images/Estrellas.jpg) | ![Lluvia en ventana](images/Lluvia%20en%20ventana.jpg) |
+| ![Cascada con arcoiris](images/Cascada%20con%20arcoiris.jpg) | ![Cascada](images/Cascada.jpg) | ![Estrellas con Auroras Boreales](images/Estrellas%20con%20Auroras%20Boreales.jpg) |
 
-| ❄️ Nieve | ✨ Luciérnagas | 🟩 Matrix |
+| ⭐ Estrellas | 🪟 Lluvia en ventana (1) | ⛈️ Lluvia en ventana (2) |
 |---|---|---|
-| ![Nieve](images/Nieve.jpg) | ![Luciérnagas](images/Luciernagas.jpg) | ![Matrix](images/Matrix.jpg) |
+| ![Estrellas](images/Estrellas.jpg) | ![Lluvia en ventana 1](images/Lluvia%20en%20ventana%20%281%29.jpg) | ![Lluvia en ventana 2](images/Lluvia%20en%20ventana%20%282%29.jpg) |
 
-| ☁️ Nubes | 🌌 Nebulosa | 🌈 Nubes con arcoíris |
+| ✨ Luciérnagas | 🟦 Matrix azul | 🟪 Matrix mixto |
 |---|---|---|
-| ![Nubes](images/Nubes.jpg) | ![Nebulosa](images/Nebulosa.jpg) | ![Nubes con arcoíris](images/Nubes%20con%20Arcoiris.jpg) |
+| ![Luciernagas](images/Luciernagas.jpg) | ![Matrix azul](images/Matrix%20azul.jpg) | ![Matrix mixto](images/Matrix%20mixto.jpg) |
+
+| 🟣 Matrix morado | 🟩 Matrix | 🌌 Nebulosa |
+|---|---|---|
+| ![Matrix morado](images/Matrix%20morado.jpg) | ![Matrix](images/Matrix.jpg) | ![Nebulosa](images/Nebulosa.jpg) |
+
+| ❄️ Nieve | 🌈 Nubes con arcoíris | ☁️ Nubes |
+|---|---|---|
+| ![Nieve](images/Nieve.jpg) | ![Nubes con Arcoiris](images/Nubes%20con%20Arcoiris.jpg) | ![Nubes](images/Nubes.jpg) |
 
 ### ⚙️ Configuración
 
