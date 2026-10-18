@@ -171,3 +171,23 @@ El proyecto incluye actualmente:
 ### Rain Overlay for Windows
 
 Un proyecto experimental de efectos visuales interactivos para transformar el escritorio de Windows en diferentes ambientes dinámicos.
+
+## 📸 Efectos
+
+Todos los efectos pueden personalizarse desde el panel de configuración.
+
+| 🌈 Cascada | ⭐ Estrellas | 🪟 Lluvia en ventana |
+|---|---|---|
+| ![Cascada con arcoíris](images/Cascada%20con%20arcoiris.jpg) | ![Estrellas](images/Estrellas.jpg) | ![Lluvia en ventana](images/Lluvia%20en%20ventana.jpg) |
+
+| ❄️ Nieve | ✨ Luciérnagas | 🟩 Matrix |
+|---|---|---|
+| ![Nieve](images/Nieve.jpg) | ![Luciérnagas](images/Luciernagas.jpg) | ![Matrix](images/Matrix.jpg) |
+
+| ☁️ Nubes | 🌌 Nebulosa | 🌈 Nubes con arcoíris |
+|---|---|---|
+| ![Nubes](images/Nubes.jpg) | ![Nebulosa](images/Nebulosa.jpg) | ![Nubes con arcoíris](images/Nubes%20con%20Arcoiris.jpg) |
+
+### ⚙️ Configuración
+
+Cada efecto dispone de diferentes parámetros que permiten modificar su apariencia, comportamiento y rendimiento.
